@@ -781,6 +781,68 @@ https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/44jf5LR/beinxtraes.png" group-title="SPORTS" , BEIN SPORTS XTRA En Español
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
+```````` LIFESTYLE ````````
+
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="AFN" tvg-logo="https://i.ibb.co/g68bh5m/afn.png" group-title="LIFESTYLE", AFN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="AFN" tvg-logo="https://i.ibb.co/g68bh5m/afn.png" group-title="LIFESTYLE", AFN HD
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+
+
+#EXTINF:-1 channel-id="samsung-USBC6000108Z" tvg-id="USBC6000108Z" tvg-logo="https://i.ibb.co/ZfyHg4M/bbcfood.png" group-title="LIFESTYLE" , BBC Food 
+https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBC44000226R" tvg-id="USBC44000226R" tvg-logo="https://i.ibb.co/bJk04Tp/bonappetit.png" group-title="LIFESTYLE" , BON Appétit 
+https://i.mjh.nz/SamsungTVPlus/USBC44000226R.m3u8
+
+#EXTINF:-1 tvg-id="Food Network (East)" tvg-name="Food Network (East)" tvg-logo="https://i.ibb.co/SJggJBt/foodnetwork.png" group-title="LIFESTYLE", FOOD NETWORK 
+https://varun-iptv.netlify.app/m3u/Food Network.m3u8
+
+#EXTINF:-1 channel-id="pluto-5877ac8cb791f4eb4a140d81" tvg-id="5877ac8cb791f4eb4a140d81" tvg-logo="https://i.ibb.co/KKR35Cz/foodtv.png" group-title="LIFESTYLE" , FOOD TV 
+https://i.mjh.nz/PlutoTV/5877ac8cb791f4eb4a140d81-alt.m3u8
+
+#EXTINF:-1 channel-id="samsung-CABB2500021YQ" tvg-id="CABB2500021YQ" tvg-logo="https://i.ibb.co/hCTsgwN/gustotv.png" group-title="LIFESTYLE" , GUSTO TV
+https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.ibb.co/hCwSVg8/hgtv.png" group-title="LIFESTYLE", HGTV 
+https://f005.backblazeb2.com/file/trmbckt/mtreu/HGTV.m3u8
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.ibb.co/hCwSVg8/hgtv.png" group-title="LIFESTYLE", HGTV 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+
+#EXTINF:-1 channel-id="pluto-633ee9ba83c08f00076b60a6" tvg-id="633ee9ba83c08f00076b60a6" tvg-logo="https://i.ibb.co/GCdh8zn/kfood.png" group-title="LIFESTYLE" , KFOOD 
+https://i.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/gT4gbL9/lifetime.png" group-title="LIFESTYLE", LIFETIME 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTINF:-1 channel-id="samsung-GBAJ700002OS" tvg-id="GBAJ700002OS" tvg-logo="https://i.ibb.co/FXyDJ7k/plutotvfood.png" group-title="LIFESTYLE" , PLUTO TV Food 
+https://i.mjh.nz/SamsungTVPlus/GBAJ700002OS.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD7000189R" tvg-id="USBD7000189R" tvg-logo="https://i.ibb.co/4P7422R/tastemade.png" group-title="LIFESTYLE" , TASTEMADE 
+https://i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBC3200022W6" tvg-id="USBC3200022W6" tvg-logo="https://i.ibb.co/sPPRHpT/tastemadehome.png" group-title="LIFESTYLE" , TASTEMADE HOME 
+https://i.mjh.nz/SamsungTVPlus/USBC3200022W6.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD700017WC" tvg-id="USBD700017WC" tvg-logo="https://i.ibb.co/hMmHhbF/tastemadetravel.png" group-title="LIFESTYLE" , TASTEMADE TRAVEL 
+https://i.mjh.nz/SamsungTVPlus/USBD700017WC.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.ibb.co/g3N7Jrt/tlc.png" group-title="LIFESTYLE", TLC 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBAJ49000184K" tvg-id="GBAJ49000184K" tvg-logo="https://i.ibb.co/x6kcZRC/travelxp.png" group-title="LIFESTYLE" , TRAVELXP 
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
+
+
 
 
 
