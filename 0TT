@@ -301,7 +301,7 @@ https://e1.siar.us/badartv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zSgt2KP/mqtv.png" group-title="RELIGION", MQTV 
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Muslim TV - [Channel 92].id" tvg-name="" tvg-logo="https://i.ibb.co/X4jXGcz/muslimtv.png" group-title="RELIGION", MUSLIM TV 🇮🇩 ☪
+#EXTINF:-1 tvg-id="Muslim TV - [Channel 92].id" tvg-name="" tvg-logo="https://i.ibb.co/X4jXGcz/muslimtv.png" group-title="RELIGION", MUSLIM TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
