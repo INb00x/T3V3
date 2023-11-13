@@ -845,7 +845,13 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
 LIVE EVENT
 #EXTINF:-1 tvg-id="" tvg-logo="http://surl.li/ncdpo" group-title="LIVE EVENT" , LIVE 1
 http://b4tv.live/b4tv/b4tv/3.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://surl.li/ncdpo" group-title="LIVE EVENT" , LIVE 2
+http://b4tv.live/b4tv/b4tv/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://surl.li/ncdpo" group-title="LIVE EVENT" , LIVE 3
+http://b4tv.live/b4tv/b4tv/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://surl.li/ncdpo" group-title="LIVE EVENT" , LIVE 4
+https://s3.alnorum.xyz/hls/stream-1/index.m3u8|referer=https://www.sportshub.to/&User-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-logo="http://surl.li/ncdpo" group-title="LIVE EVENT" , LIVE 5
+https://s3.alnorum.xyz/hls/stream-2/index.m3u8|referer=https://www.sportshub.to/&User-agent=Mozilla/5.0
 
 
